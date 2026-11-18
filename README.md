@@ -4,7 +4,7 @@
 
 **Every page I've built with Hark, in one place.**
 
-![Pages](https://img.shields.io/badge/pages-1-ff6f91?style=for-the-badge)
+![Pages](https://img.shields.io/badge/pages-2-ff6f91?style=for-the-badge)
 ![Built with Hark](https://img.shields.io/badge/built%20with-Hark-845ec2?style=for-the-badge)
 ![Made by](https://img.shields.io/badge/made%20by-Swapnil-00c9a7?style=for-the-badge)
 
@@ -34,11 +34,32 @@ A playful, Pinterest-style gallery of my hand-directed cartoon videos: little ev
 
 ---
 
+## 🎮 Bablu: Personal Mausam Run
+
+<a href="https://hark.com/site/33d4643c-59ea-4738-baf7-f3a628510b3f">
+  <img src="assets/bablu-game/cover.jpg" alt="Bablu: Personal Mausam Run" width="100%">
+</a>
+
+A tap-to-jump side-scroller through a pastel market street. Bablu catches butterflies, dodges flies and flying newspapers, and keeps ahead of Uncle. Every five butterflies his personal weather changes, drawn live by a WebGL shader: golden sun, rain, rainbow, then a starry night, with a music score made entirely in code.
+
+| 🦋 Catch | 🪰 Dodge | 🌦️ Weather | 🎵 Sound |
+|:-:|:-:|:-:|:-:|
+| Butterflies | Flies & newspapers | 4 shader moods | Procedural WebAudio |
+
+<div align="center">
+
+### [👉 Play the game](https://hark.com/site/33d4643c-59ea-4738-baf7-f3a628510b3f)
+
+</div>
+
+---
+
 ## 📚 Index
 
 | # | Page | What's inside | Added |
 |:-:|------|---------------|-------|
 | 1 | [Swapnil Cartoon Studio](https://hark.com/site/a272341d-9a7c-4b54-be08-f78fe855b087) | Cartoon video gallery: 2 stories, 2 dental explainers | Nov 18, 2026 |
+| 2 | [Bablu: Personal Mausam Run](https://hark.com/site/33d4643c-59ea-4738-baf7-f3a628510b3f) | Browser game: side-scroller with shader weather | Nov 19, 2026 |
 
 <div align="center">
 <sub>Made with 💜 and a lot of chai.</sub>
